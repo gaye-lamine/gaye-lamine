@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://laminetech.netlify.app" target="_blank">
+  <a href="https://abdadev.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/lamine-gaye-80b45b21a/" target="_blank">
